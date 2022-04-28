@@ -1,0 +1,24 @@
+<div id="masthead">
+	<div id="site-header" role="banner">
+		<div class="container">
+			<div class="row">
+				<div id="branding">
+					<a class="logo" href="index.html">Canvas</a>
+				</div>
+				<nav id="main-menu" role="navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
+					<ul class="horizontal-navigation">
+						<li class="menu-home active" itemprop="url"><a href="index.html" title="Home" itemprop="name">Home</a></li>
+					</ul>
+				</nav>
+			</div>
+		</div>
+	</div>
+	<div id="page-title">
+		<div class="container">
+			<div class="row">
+				<h1 class="entry-title" itemprop="headline">Lorem ipsum dolor</h1>
+				<p class="description" itemprop="description">tortor felis quam rutrum velit, pretium posuere placerat. Vitae ut nulla eget</p>
+			</div>
+		</div>
+	</div>
+</div>
